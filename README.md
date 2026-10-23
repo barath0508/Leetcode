@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/barath0508/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/barath0508/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/barath0508/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/barath0508/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/barath0508/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/barath0508/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/barath0508/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/barath0508/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/barath0508/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
